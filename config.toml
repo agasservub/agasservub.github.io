@@ -2,7 +2,7 @@ baseURL = "https://agasservub.github.io"
 title = "Anas Gasser"
 
 theme = "hugo-coder"
-
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"
 
