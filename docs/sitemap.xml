@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://agasservub.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://anasgasser.github.io/about/</loc>
+  </url>
   
-  <sitemap>
-    <loc>https://agasservub.github.io/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://anasgasser.github.io/</loc>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://anasgasser.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anasgasser.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anasgasser.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anasgasser.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anasgasser.github.io/tags/</loc>
+  </url>
+  
+</urlset>
